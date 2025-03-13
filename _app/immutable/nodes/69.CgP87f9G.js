@@ -1,0 +1,1 @@
+import{r as e}from"../chunks/PD1Wq3xD.js";const o=async()=>{throw e(301,"/download")},t=Object.freeze(Object.defineProperty({__proto__:null,load:o},Symbol.toStringTag,{value:"Module"}));export{t as universal};
