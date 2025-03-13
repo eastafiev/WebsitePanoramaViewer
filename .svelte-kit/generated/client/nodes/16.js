@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/blog/posts/introducing-v2-4-preview/+page.md";

@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/blog/posts/announcing-files-v2-4-40/+page.md";

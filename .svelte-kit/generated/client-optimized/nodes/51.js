@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/docs/customize-settings/actions/+page.md";

@@ -1,0 +1,1 @@
+export { default as component } from "../../../../src/routes/docs/contributing/code-style/+page.md";

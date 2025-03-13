@@ -1,0 +1,283 @@
+{
+	"/": [
+		"src/routes/+page.ts",
+		"src/routes/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog": [
+		"src/routes/blog/+page.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/feed.rss": [
+		"src/routes/blog/feed.rss/+server.ts"
+	],
+	"/blog/posts": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/announcing-files-v2-4-30": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/announcing-files-v2-4-40": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/announcing-files-v2-5-10": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/announcing-files-v2-5-20": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/announcing-files-v2-5": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/announcing-files-v2": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/introducing-files-v2-0-33": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/introducing-files-v2-1": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/introducing-files-v2-3": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/introducing-files-v2-4": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/introducing-v2-4-preview": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/listary-integration": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/now-on-scoop": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/now-on-winget": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/preview-on-store": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/ten-things": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-1": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-2-2": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-2": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-3": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-4-1": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-4": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-5": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-6": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-7-11": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-7-6": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-7-7": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-7": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-8-11": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-8-12": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-8-13": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-8-14": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-8-1": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-8-5": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-8": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-9-0": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-9-1": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3-9-2": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/blog/posts/v3": [
+		"src/routes/blog/posts/+layout.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts",
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/configuring/[...rest]": [
+		"src/routes/docs/configuring/[...rest]/+page.server.ts",
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/contributing/building-from-source": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/contributing/code-style": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/contributing/translating": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/contributing/updates": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/customize-settings/actions": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/customize-settings/advanced": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/customize-settings/appearance": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/customize-settings/files-and-folders": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/customize-settings/layout": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/customize-settings/[...rest]": [
+		"src/routes/docs/customize-settings/[...rest]/+page.server.ts",
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/features/cloud-drives": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/features/command-palette": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/features/folder-config": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/features/ftp": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/features/git": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/features/integrations": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/features/layout-picker": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/features/tabs": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/features/tags": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/docs/install": [
+		"src/routes/docs/+layout.server.ts",
+		"src/routes/+layout.ts"
+	],
+	"/download": [
+		"src/routes/+layout.ts"
+	],
+	"/download/preview": [
+		"src/routes/download/preview/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/download/stable": [
+		"src/routes/download/stable/+page.ts",
+		"src/routes/+layout.ts"
+	],
+	"/privacy": [
+		"src/routes/+layout.ts"
+	],
+	"/themes": [
+		"src/routes/+layout.ts"
+	]
+}

@@ -1,0 +1,1 @@
+const t={target:"_blank",rel:"noreferrer noopener"},s=(e,n)=>e===n||e.split("/").length>1&&n.split("/").length>1&&e.startsWith(n)&&!(n===""||n==="/")||n==="/"&&e==="",r=e=>Object.entries(e);export{r as a,t as e,s as i};
