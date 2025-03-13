@@ -1,7 +1,19 @@
 {
 	"name": "files-community",
 	"version": "0.0.1",
-	"repository": "https://github.com/files-community/files",
+	"description": "<h1 align=\"center\">Files Website • <a href=\"https://files.community\">files.community</a></h1>",
+	"homepage": "https://github.com/files-community/files#readme",
+	"bugs": {
+		"url": "https://github.com/files-community/files/issues"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/files-community/files.git"
+	},
+	"license": "ISC",
+	"author": "",
+	"type": "module",
+	"main": "eslint.config.js",
 	"scripts": {
 		"dev": "vite dev --host",
 		"build": "vite build",
@@ -46,12 +58,11 @@
 		"unplugin-icons": "0.19.3",
 		"vite": "^5.4.12"
 	},
-	"lint-staged": {
-		"*": "prettier --write --ignore-unknown --plugin-search-dir=."
-	},
 	"engines": {
 		"pnpm": ">=8",
 		"node": ">=20"
 	},
-	"type": "module"
+	"lint-staged": {
+		"*": "prettier --write --ignore-unknown --plugin-search-dir=."
+	}
 }
