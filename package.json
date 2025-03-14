@@ -17,6 +17,7 @@
 	"scripts": {
 		"dev": "vite dev --host",
 		"build": "vite build",
+		"build:github": "cross-env BASE_PATH=/SimplePanoViewerWebSite vite build",
 		"preview": "svelte-kit preview",
 		"check": "svelte-check --tsconfig ./tsconfig.json",
 		"check:watch": "svelte-check --tsconfig ./tsconfig.json --watch",
