@@ -16,6 +16,7 @@ const config = {
 			$layout: "src/layout",
 			$i18n: "src/i18n",
 		},
+
 		adapter: adapter({
 			// default options are shown
 			pages: "build",
@@ -26,8 +27,7 @@ const config = {
 		}),
 		paths: {
 			// Update this to match your GitHub repository name
-			base:
-				process.env.NODE_ENV === "production" ? "/SimplePanoViewerWebSite" : "",
+			base: process.env.NODE_ENV === "" ? "/SimplePanoViewerWebSite" : "",
 		},
 	},
 	preprocess: [
