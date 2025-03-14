@@ -27,7 +27,7 @@ const config = {
 		}),
 		paths: {
 			// Update this to match your GitHub repository name
-			base: process.env.NODE_ENV === "" ? "/SimplePanoViewerWebSite" : "",
+			base: process.env.NODE_ENV === "" ? "/WebsitePanoramaViewer" : "",
 		},
 	},
 	preprocess: [
