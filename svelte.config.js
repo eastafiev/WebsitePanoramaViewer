@@ -29,6 +29,16 @@ const config = {
 			// Update this to match your GitHub repository name
 			base: process.env.NODE_ENV === "" ? "/WebsitePanoramaViewer" : "",
 		},
+		csp: {
+			directives: {
+				"default-src": ["self"],
+				"script-src": ["self", "unsafe-inline"],
+				"style-src": ["self", "unsafe-inline"],
+				"img-src": ["self", "data:"],
+				"connect-src": ["self"],
+				"font-src": ["self"],
+			},
+		},
 	},
 	preprocess: [
 		mdsvex({
