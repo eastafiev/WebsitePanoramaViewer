@@ -2,13 +2,13 @@
 	"name": "files-community",
 	"version": "0.0.1",
 	"description": "<h1 align=\"center\">Files Website • <a href=\"https://files.community\">files.community</a></h1>",
-	"homepage": "https://github.com/files-community/files#readme",
+	"homepage": "https://github.com/WebsitePanoramaViewer/files#readme",
 	"bugs": {
-		"url": "https://github.com/files-community/files/issues"
+		"url": "https://github.com/WebsitePanoramaViewer/files/issues"
 	},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/files-community/files.git"
+		"url": "git+https://github.com/WebsitePanoramaViewer/files.git"
 	},
 	"license": "ISC",
 	"author": "",

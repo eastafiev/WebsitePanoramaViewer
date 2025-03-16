@@ -1,1 +1,0 @@
-export { default as component } from "../../../../src/routes/blog/posts/ten-things/+page.md";
