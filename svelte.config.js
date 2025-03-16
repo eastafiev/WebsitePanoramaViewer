@@ -30,9 +30,11 @@ const config = {
 			base: process.env.NODE_ENV === "" ? "/WebsitePanoramaViewer" : "",
 		},
 		csp: {
+			mode: "auto", // This should generate both header and meta tag
 			directives: {
 				"default-src": ["'self'"],
 				"script-src": ["'self'", "'unsafe-inline'"],
+				"script-src-elem": ["'self'", "'unsafe-inline'"],
 				"style-src": ["'self'", "'unsafe-inline'"],
 				"img-src": ["'self'", "data:"],
 				"connect-src": ["'self'"],
